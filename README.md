@@ -9,7 +9,7 @@ Focus on Your Dreams (FOYD) is a mobile and desktop application designed to help
 * Activity Monitoring: Tracks app usage history to monitor digital habits.
 * AI-Powered Insights: Provides weekly personalized reports on productive vs. non-productive activities.
 * Reward System: Users earn points for productive behavior, which can be converted into tokens monthly.
-* Blockchain Integration: Rewards are managed through the Polygon blockchain for secure and transparent transactions.
+* Blockchain Integration: Rewards are managed through the CAPx blockchain for secure and transparent transactions.
 * User-Friendly Interface: Easy-to-use design for monitoring and improving digital well-being.
 
 # How It Works
