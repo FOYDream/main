@@ -25,4 +25,4 @@ Focus on Your Dreams (FOYD) is a mobile and desktop application designed to help
 * Mobile & Desktop Platforms: Android, iOS, Windows, macOS.
 * Backend: Cloud computing for scalability.
 * AI Integration: Data analysis for behavior insights.
-* Polygon Blockchain: Reward system and token management.
+* CAPx Blockchain: Reward system and token management.
